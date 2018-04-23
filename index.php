@@ -1,3 +1,3 @@
 <?php
-	echo "Hello World";
+	echo "Hello blaze its new to view the page";
 ?>
