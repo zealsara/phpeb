@@ -1,5 +1,1 @@
-<?php
-	echo "Hello blaze";
-	echo "<BR>";
-	echo "This is the change from saravanan";
-?>
+i dont like php, i love html
